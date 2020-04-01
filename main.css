@@ -8,10 +8,10 @@
 }
 #p2{
 	position: absolute;
-    left: 730px;
-    bottom: 860px;
-    color: black;
-    font-size: 50px;
+    left: 600px;
+    bottom: 805px;
+    color: #9400FF;
+    font-size: 70px;
     font-style: italic;
 }
 #img2{
@@ -24,8 +24,61 @@
 	margin-right:700px;
 	font-size: 30px;
 	font-family: 'Roboto', sans-serif;
+	margin-top: -750px;
 }
 #div2{
 	background-image: url(https://www.bakercommunications.com/images/pattern-icons/2.png);
 	margin-top: -34px;
+}
+#img3{
+	width: 500px;
+	margin:50px;
+	height: 300px;
+}
+#img4{
+	width: 500px;
+	margin:50px;
+	height: 300px;
+}
+#div3{
+	display: flex;
+	flex-direction: column;
+	justify-content: left;
+}
+#div4{
+	display: flex;
+	flex-direction: column;
+	justify-content: right;
+}
+#img5{
+    width: 500px;
+    float: right;
+    margin-left: 1330px;
+    margin-top: -752px;
+    height: 300px;
+}
+#img6{
+    width: 500px;
+    float: right;
+    margin-left: 1330px;
+    margin-top: 95px;
+    height: 300px;
+}
+#p3{
+	position: absolute;
+    left: 25px;
+    bottom: 305px;
+    color: black;
+    font-size: 70px;
+    font-style: italic;
+    color: #009BFF;
+}
+#p4{
+	position: absolute;
+    left: 900px;
+    bottom: -200px;
+    color: black;
+    font-size: 70px;
+    font-style: italic;
+    color: #FFAB00;
 }
