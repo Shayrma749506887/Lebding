@@ -9,7 +9,7 @@
 #p2{
 	position: absolute;
     left: 600px;
-    bottom: 805px;
+    bottom: 715px;
     color: #9400FF;
     font-size: 70px;
     font-style: italic;
@@ -131,4 +131,23 @@ h2{
 }
 #h3{
 	background-color: #E3CE16;
+}
+header{
+   width: 100%;
+   background: black url(https://m-files.cdnvideo.ru/lpfile/f/b/f/fbfa0d7a260022ddceaf73237a5981b6/-/scale/x1/-/crop/0x0x332x332/-/resize/89/-/quality/95/file.png) no-repeat 5% 50%;
+   height: 110px;
+   position: fixed;
+}
+.title{
+   font-size: 66px;
+   text-align: center;
+   font-style: italic;
+   color: #00b3ff;
+}
+.menu{
+   list-style: none;
+   position: absolute;
+   top: 5px;
+   right: 50px;
+   color: #00b3ff;
 }
